@@ -1,10 +1,10 @@
 ########################
 Servicios Utilizados: 
-- Login
-- Create
-- Update
-- List
-- Delete
+- Post Login - successful
+- Post Create
+- Put Update
+- Get List users
+- Delete Delete
 ########################
 Validacion:
 - Codigo de repuesta de los servicios
