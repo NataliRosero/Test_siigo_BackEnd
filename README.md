@@ -1,4 +1,7 @@
 ########################
+Archivo .jmx abrirlo con Jmeter para su ejecucion
+
+########################
 Servicios Utilizados: 
 - Post Login - successful
 - Post Create
